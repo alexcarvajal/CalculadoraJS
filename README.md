@@ -1,6 +1,6 @@
 # Calculadora
 
-Esta es una calculadora simple hecha con HTM , CSS y JavaScript. La calculadora tiene una interfaz de usuario básica con botones para números y operaciones matemáticas.
+Esta es una calculadora simple hecha con HTML , CSS y JavaScript. La calculadora tiene una interfaz de usuario básica con botones para números y operaciones matemáticas.
 
 ## Uso
 
